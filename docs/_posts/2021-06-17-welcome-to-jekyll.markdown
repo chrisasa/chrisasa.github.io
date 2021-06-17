@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to OptiTree!"
 date:   2021-06-17 01:54:37 +0100
 categories: jekyll update
 ---
